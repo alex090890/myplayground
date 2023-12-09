@@ -1,2 +1,3 @@
-const message = 'hi';
-console.log(hi);
+let number = 1;
+console.log(number);
+console.log(5);
